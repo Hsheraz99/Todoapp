@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: aqua;}
+    h1{
+        color: aqua;
+    }
+    input{
+        color: aqua;
+        padding: 20px;
+        margin-top: 20px;
+        font-size: large;
+    }
+    button{
+        color: aqua;
+        padding: 20px;
+        margin-top: 20px;
+        font-size: large;
+    }
